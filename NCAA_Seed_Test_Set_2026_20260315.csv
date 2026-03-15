@@ -39,7 +39,7 @@ RecordID,Season,Team,Conference,Bid Type,NET Rank,PrevNET,AvgOppNETRank,AvgOppNE
 2025-26-Maryland,2025-26,Maryland,Big Ten,,138,138,25,92,21-Dec,17-May,4-Jul,10-Feb,11,66,15-Jan,3-Mar,3-Mar,May-00
 2025-26-Miami (OH),2025-26,Miami (OH),MAC,,64,64,278,228,28-1,18-1,Oct-00,14-0,339,363,0-0,Mar-00,Oct-00,15-1
 2025-26-Winthrop,2025-26,Winthrop,Big South,,131,130,255,217,20-11,15-4,7-May,9-Jul,175,86,0-3,0-3,1-Apr,16-4
-2025-26-Vanderbilt,2025-26,Vanderbilt,SEC,AQ,13,14,23,91,26-7,13-7,13-0,4-Aug,23,114,6-Oct,1-Jul,Mar-00,Jun-00
+2025-26-Vanderbilt,2025-26,Vanderbilt,SEC,,13,14,23,91,26-7,13-7,13-0,4-Aug,23,114,6-Oct,1-Jul,Mar-00,Jun-00
 2025-26-Holy Cross,2025-26,Holy Cross,Patriot,,331,331,322,249,22-Sep,14-Jun,8-Mar,14-Apr,330,230,0-1,0-2,4-Jan,15-Aug
 2025-26-Rutgers,2025-26,Rutgers,Big Ten,,135,133,64,108,14-19,15-Jul,4-Jul,9-Feb,46,254,0-13,5-Feb,Jul-00,1-May
 2025-26-Lipscomb,2025-26,Lipscomb,ASUN,,193,193,280,230,17-13,7-Dec,6-May,11-Jun,207,52,0-4,0-0,4-Feb,15-5
@@ -290,7 +290,7 @@ RecordID,Season,Team,Conference,Bid Type,NET Rank,PrevNET,AvgOppNETRank,AvgOppNE
 2025-26-Marist,2025-26,Marist,MAAC,,181,181,328,251,18-12,13-9,3-May,7-Jul,364,354,0-0,0-1,0-8,18-3
 2025-26-New Haven,2025-26,New Haven,NEC,,325,325,338,256,17-Nov,9-Sep,8-Feb,11-May,277,73,0-3,0-0,0-4,10-Nov
 2025-26-Gonzaga,2025-26,Gonzaga,WCC,AQ,6,6,92,135,30-3,18-2,1-Dec,2-Aug,85,31,2-Jul,Apr-00,1-Nov,Aug-00
-2025-26-Arkansas,2025-26,Arkansas,SEC,,17,16,9,84,25-8,15-5,3-Oct,5-May,24,29,8-Jul,Aug-00,Apr-00,Jun-00
+2025-26-Arkansas,2025-26,Arkansas,SEC,AQ,17,16,9,84,25-8,15-5,3-Oct,5-May,24,29,8-Jul,Aug-00,Apr-00,Jun-00
 2025-26-Oklahoma,2025-26,Oklahoma,SEC,,48,47,66,109,19-15,12-Sep,3-Oct,7-Apr,29,127,10-Apr,5-Jun,Feb-00,Jul-00
 2025-26-Iona,2025-26,Iona,MAAC,,237,238,316,247,18-14,11-Oct,3-Aug,8-Jun,337,257,0-1,0-1,4-Mar,15-8
 2025-26-Alcorn,2025-26,Alcorn,SWAC,,349,349,297,239,23-Sep,12-Aug,11-Jan,18-Feb,188,19,0-4,0-3,0-4,12-Sep
